@@ -6,7 +6,7 @@
 #       letter_template_file - ./Input/Letters/starting_letter.txt
 #       invitees_file - ./Input/Names/invited_names.txt
 #   Output
-#       ReadyToSend - <name>_letter.txt
+#       Output/ReadyToSend/<name>_letter.txt
 
 PLACEHOLDER = "[name]"
 
